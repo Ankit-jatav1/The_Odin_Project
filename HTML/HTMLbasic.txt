@@ -1,0 +1,5 @@
+   important topics and points
+
+   1) for links:
+     a) rel="noopener" : this prevent new tab from accessing the ogional page.
+     b) rel="noreferrer" : this also same as noopener but hide certain details about the original page
